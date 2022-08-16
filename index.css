@@ -1,0 +1,35 @@
+body {
+    background-image: url(./image/26.jpg);
+    background-position: absolute;
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+button {
+    background-color: transparent;
+    width: 25%;
+    height: 35px;
+    border-color: white;
+    border-radius: 50px;
+}
+
+button a{
+    text-decoration: none;
+    line-height: 20px;
+    color: white;
+    font-size: x-large;
+}
+
+button a:visited {
+        color: white;
+}
+
+button a:hover {
+    color: red;
+}
